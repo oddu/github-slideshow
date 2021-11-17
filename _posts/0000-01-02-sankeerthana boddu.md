@@ -2,5 +2,5 @@
 layout:slide
 title:"Welcome to our slide!"
 ---
-Your test
+LTTS
 Use the left arrow to go back!
